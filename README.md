@@ -1,4 +1,3 @@
-# Desarrollo Web
-Pagina de una tienda 
+# Desarrollo Web - Página web
 Equipo de desarrollo
 ana.na@cun.co
